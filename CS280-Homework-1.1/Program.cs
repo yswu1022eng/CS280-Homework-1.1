@@ -10,6 +10,7 @@ namespace CS280_Homework_1._1
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
